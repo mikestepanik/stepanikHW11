@@ -4,6 +4,8 @@
  * on p8.16, on BeagleBone Black, to the adafruit IO website using the MQTT protocol.  
  *
  *	Example Invocation: debian@beaglebone:~$ ./publish.cpp
+ *
+ * Edited by Mike Stepanik Nov. 26th, 2022
  */ 
 
 #include <iostream>
